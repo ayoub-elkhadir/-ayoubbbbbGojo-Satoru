@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['212617076646']
-global.premium = ['212617076646']
-global.ownernomer = '212617076646'
-global.ownername = 'ayoub elkhadir'
-global.botname = 'ayoub'
+global.owner = ['212708673234']
+global.premium = ['212708673234']
+global.ownernomer = '212708673234'
+global.ownername = 'simo bot'
+global.botname = 'simo bot'
 global.footer = 'ayoub '
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
